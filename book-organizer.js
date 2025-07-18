@@ -1,4 +1,4 @@
-** start of script.js **
+
 
 let books = [
   { title: "The Pragmatic Programmer", authorName: "Andrew Hunt", releaseYear: 1999 },
@@ -27,5 +27,5 @@ filteredBooks.sort(sortByYear);
 // 5. Log filteredBooks to verify
 console.log(filteredBooks);
 
-** end of script.js **
+
 
